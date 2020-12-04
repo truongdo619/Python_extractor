@@ -1,4 +1,4 @@
-from python_extractor.helper.stringconstant import *
+from Python_extractor.helper.stringconstant import *
 import re
 
 f1 = open('helper/ngramdict/syllables.txt', 'r', encoding="utf-8")

@@ -3,10 +3,10 @@ import sys
 
 sys.path.insert(0, '../')
 import numpy as np
-from python_extractor.Model.word_frequency import WordFrequency
-from python_extractor.helper.utils import *
-from python_extractor.helper.reader_helper import get_single_word_list, read_config_file
-from python_extractor.helper.error import total_error
+from Python_extractor.Model.word_frequency import WordFrequency
+from Python_extractor.helper.utils import *
+from Python_extractor.helper.reader_helper import get_single_word_list, read_config_file
+from Python_extractor.helper.error import total_error
 
 
 config = read_config_file()

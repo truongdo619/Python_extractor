@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d49d7d88-b9bd-479f-a3f7-66a5656c4293" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helper/error_helper.py" beforeDir="false" afterPath="$PROJECT_DIR$/helper/error_helper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,8 +94,16 @@
       <workItem from="1607051196422" duration="5637000" />
       <workItem from="1607060428673" duration="1568000" />
       <workItem from="1607065379153" duration="694000" />
-      <workItem from="1607067255231" duration="65000" />
+      <workItem from="1607067255231" duration="153000" />
     </task>
+    <task id="LOCAL-00001" summary="[All] init">
+      <created>1607067364462</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607067364462</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,14 +120,22 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[All] init" />
+    <option name="LAST_COMMIT_MESSAGE" value="[All] init" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="698" y="305" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606819318956">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="698" y="305" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1920.1057@0.23.1920.1057" timestamp="1606819318956" />
-    <state x="667" y="306" width="586" height="490" key="find.popup" timestamp="1607065493653">
+    <state x="560" y="278" key="Vcs.Push.Dialog.v2" timestamp="1607067367038">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state x="667" y="306" width="586" height="490" key="find.popup/0.23.1920.1057@0.23.1920.1057" timestamp="1607065493653" />
+    <state x="560" y="278" key="Vcs.Push.Dialog.v2/0.23.1920.1057@0.23.1920.1057" timestamp="1607067367038" />
+    <state x="667" y="306" width="586" height="548" key="find.popup" timestamp="1607067409474">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="667" y="306" width="586" height="548" key="find.popup/0.23.1920.1057@0.23.1920.1057" timestamp="1607067409474" />
   </component>
 </project>

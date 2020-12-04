@@ -7,7 +7,7 @@ import os
 import json, re
 
 import enchant
-from python_extractor.Model.spell_check import Spell_check
+from Python_extractor.Model.spell_check import Spell_check
 
 
 def remove_punctuation(s):

@@ -1,7 +1,7 @@
 from collections import Counter
 import sys
 sys.path.insert(0, './')
-from python_extractor.helper.utils import ENSURE_UNICODE, load_file
+from Python_extractor.helper.utils import ENSURE_UNICODE, load_file
 import json
 
 
