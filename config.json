@@ -1,0 +1,11 @@
+{
+  "max_e_thres": -8.696351860613717,
+  "min_e_thres": -20.104591378077064,
+  "num_d_iter": 20,
+  "num_e_iter": 20,
+  "step_e": 0.5705,
+  "step_d": 0.5705,
+  "e_thres": 1.5,
+  "d_thres": 3.423,
+  "c_thres": -13
+}
